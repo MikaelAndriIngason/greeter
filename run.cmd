@@ -1,1 +1,1 @@
-java -cp bin Main
+java -cp bin is.hi.mai24.hbv202g.ass3.frontend.Main
